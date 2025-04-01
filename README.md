@@ -17,7 +17,7 @@ Technologies Used:
 Python – Primary programming language.
 Tkinter – GUI toolkit for user-friendly interaction.
 mysql-connector-python – Library for connecting Python with MySQL.
-MySQL – Database system for structured data storage.
+MySQL – Database system for structured data storage
 
 ![image](https://github.com/user-attachments/assets/9380e4ba-d9ea-403c-b5dd-c8c627e9156e)
 
